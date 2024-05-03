@@ -1,4 +1,4 @@
-# Advanced-topics-in-ML
+# 2024 ATML NLP Group Project Repo for La Team
 
 Link to the competition:
 https://www.kaggle.com/competitions/atml-unige-2024/overview
